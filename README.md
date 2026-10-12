@@ -1,4 +1,4 @@
-运行提示：请将后两个mp3放在一个叫作audio的文件夹并与html置于一起，html文件不要在audio文件夹内，而是与audio文件夹并列
+运行提示：所需文件均在Python文件夹里面，请将后两个mp3放在一个叫作audio的文件夹并与html置于一起，html文件不要在audio文件夹内，而是与audio文件夹并列
 项目名称 Life Map
 
 项目简介
